@@ -1,0 +1,5 @@
+{
+  "name": "GoalTracker: Visual Progress",
+  "description": "A hierarchical to-do list where you document your achievements with photos.",
+  "requestFramePermissions": ["camera"]
+}
